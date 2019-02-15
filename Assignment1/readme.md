@@ -23,6 +23,8 @@ Using the training data set (train.csv), create an analytic model for pairs of i
 ### From your model, which factors are best predictors of influence? (Provide screenshots). 
 ![Feature Importance](feature_importance.PNG)
 
+The most important variable is number of followers of the user, followed by betweenness of the user. Its interesting that the activity that the person does - retweets and mentions sent are the next important set of variables. The higher the closeness score, the less likely the user is an influencer.
+
 ### Are there any surprises here? How can a business use your model/results? 
 Our model can be especially useful if a business wants to identify influencers or ambassadors for its products. As we know, endorsements play a huge role today in customer conversion. Customers often spend a lot of time perusing reviews, especially leaning towards recommendations giving by gurus in that field. 
 
