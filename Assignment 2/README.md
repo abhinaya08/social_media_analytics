@@ -34,7 +34,7 @@ Code [(here)](https://github.com/abhinaya08/social_media_analytics/blob/master/A
 
 ### What are the main differences in the average topic weights of images across the two quartiles (e.g., greater weight of some topics in the highest versus lowest engagement quartiles)? Show the main results in a table. 
 
-[Difference in average weights](taskc_1.PNG)
+![Difference in average weights](taskc_1.PNG)
 
 
 ## Task D
