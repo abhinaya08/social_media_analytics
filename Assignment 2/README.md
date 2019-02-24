@@ -37,9 +37,13 @@ Code [(here)](https://github.com/abhinaya08/social_media_analytics/blob/master/A
 [Difference in average weights](taskc_1.PNG)
 
 
-##Task D
+## Task D
 
 ### What advice would you give Natgeo to increase engagement on its Instagram page based on your findings in Tasks B and C?   
 
-1. NatGeo should make posts with its top photographers showing natural landscapes, specifically the Artic and African landscapes with its wildlife. People especially love big cats and penguins.
+1. NatGeo should make posts with its top photographers showing natural landscapes, specifically the Artic and African landscapes with its wildlife. People especially love big cats and penguins
+
+2. We also observe that "awareness" posts about conservation rhinos, whales and penguins leads to higher engagement
+
+3. WIP (based on task B)
 
