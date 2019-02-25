@@ -20,11 +20,15 @@ Code to extract labels [(here)](https://github.com/abhinaya08/social_media_analy
 
 Create a metric (score) for engagement by using a weighted sum of number of likes and number of comments. Be sure to normalize number of likes and number of comments. Now create an engagement score = .4 x number of likes (normalized) + .6 x number of comments (normalized). 
 
-Model code [(here)]()
+Model code [(here)](https://github.com/abhinaya08/social_media_analytics/blob/master/Assignment%202/Assignment%202%20-%20Part%20B-V2.ipynb)
 
 ### Build a model to predict engagement with image labels (text) as predictors. Is this model better than using captions to predict the same? What if you used both image labels and captions to predict engagement? 
 
-WIP
+|                                 	| Random Forest 	| XG Boost 	|
+|---------------------------------	|---------------	|----------	|
+| Model using only image labels   	| 1.07          	| 1.06     	|
+| Model using only captions       	| 0.53          	| 0.52     	|
+| Model using labels and captions 	| 1.09          	| 1.06     	|
 
 ## Task C
 
@@ -45,5 +49,5 @@ Code [(here)](https://github.com/abhinaya08/social_media_analytics/blob/master/A
 
 2. We also observe that "awareness" posts about conservation rhinos, whales and penguins leads to higher engagement
 
-3. WIP (based on task B)
+3. It's interesting how the visuals in the image 
 
