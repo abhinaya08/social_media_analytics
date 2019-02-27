@@ -1,5 +1,7 @@
 # Assignment 2
 
+#### Abhinaya Ananthakrishnan, Akhilesh Reddy, Anisha Garg, Sherlley Loo, Teeru Gupta
+
 ## Is a Picture Worth a Thousand Words?
 
 The good folks at National Geographic (Instagram: natgeo) have hired you as a social media analytics consultant to help them increase engagement on their Instagram page. Natgeo expects you to advise them on what type of content they should post more and less of – i.e., what types of images increase engagement? What types decrease engagement?
