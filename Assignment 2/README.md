@@ -51,5 +51,5 @@ Code [(here)](https://github.com/abhinaya08/social_media_analytics/blob/master/A
 
 2. We also observe that "awareness" posts about conservation rhinos, whales and penguins leads to higher engagement
 
-3. It's interesting how the visuals in the image 
+3. It's interesting how the visuals in the image drive as much engagement as the visuals + captions based on the models we built in Task B. Content marketing is a challenge for many organizations and the model we built exhibits how important content is to drive higher engagement.
 
